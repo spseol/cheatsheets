@@ -1,0 +1,2 @@
+# cheatsheets
+Taháky k výuce
