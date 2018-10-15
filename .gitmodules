@@ -1,0 +1,3 @@
+[submodule "pyvec"]
+	path = pyvec
+	url = https://github.com/pyvec/cheatsheets.git
