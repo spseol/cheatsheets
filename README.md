@@ -20,6 +20,11 @@ Pyhton3
 
 * https://dribbble.com/shots/2389144-Git-GitHub-Tutorial
 
+
+Virtual ENV a pip
+------------------------
+
+
 Flask
 ---------------
 
@@ -31,7 +36,6 @@ C
 
 * http://www.fit.vutbr.cz/~martinek/clang/
 * http://jaknaprojekty.davidm.cz/
-
 
 Linux shell
 ---------------
