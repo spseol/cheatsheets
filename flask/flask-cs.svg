@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="flask-cs.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker7230"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path7228" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path6825"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.0381746"
+     inkscape:cx="559.63611"
+     inkscape:cy="569.34333"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1276"
+     inkscape:window-height="980"
+     inkscape:window-x="0"
+     inkscape:window-y="42"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="20.045215,295.33283"
+       orientation="1,0"
+       id="guide5793"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Vrstva 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.69999981px;line-height:125%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="89.752235"
+       y="16.827929"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="89.752235"
+         y="16.827929"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:12.69999981px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';stroke-width:0.26458331pt">Flask</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5520"
+       style="fill:black;fill-opacity:1;stroke:none;stroke-opacity:1;stroke-width:1pt;stroke-linejoin:miter;stroke-linecap:butt;font-family:URW Palladio L;font-style:normal;font-weight:500;font-size:20px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:URW Palladio L Medium;font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion5522"><rect
+           id="rect5524"
+           width="60"
+           height="77.14286"
+           x="45.714287"
+           y="113.94826" /></flowRegion><flowPara
+         id="flowPara5526" /></flowRoot>    <g
+       id="g5764"
+       transform="translate(12.170835,-20.637507)">
+      <text
+         id="text5530"
+         y="37.300617"
+         x="137.31596"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="37.300617"
+           x="137.31596"
+           id="tspan5528"
+           sodipodi:role="line">flask_project</tspan><tspan
+           id="tspan5532"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="44.379375"
+           x="137.31596"
+           sodipodi:role="line">    ├── my_app.py</tspan><tspan
+           id="tspan5534"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="51.458138"
+           x="137.31596"
+           sodipodi:role="line">    ├── static</tspan><tspan
+           id="tspan5536"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="58.536896"
+           x="137.31596"
+           sodipodi:role="line">    │   ├── logo.png</tspan><tspan
+           id="tspan5538"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="65.615654"
+           x="137.31596"
+           sodipodi:role="line">    │   └── styles.css</tspan><tspan
+           id="tspan5540"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="72.694412"
+           x="137.31596"
+           sodipodi:role="line">    └── templates</tspan><tspan
+           id="tspan5542"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="79.77317"
+           x="137.31596"
+           sodipodi:role="line">        ├── base.html</tspan><tspan
+           id="tspan5544"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="86.851936"
+           x="137.31596"
+           sodipodi:role="line">        ├── hello.html</tspan><tspan
+           id="tspan5546"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="93.930695"
+           x="137.31596"
+           sodipodi:role="line">        └── login.html</tspan><tspan
+           id="tspan5548"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';stroke-width:0.26458331pt"
+           y="101.00945"
+           x="137.31596"
+           sodipodi:role="line" /></text>
+      <text
+         id="text5552"
+         y="31.576868"
+         x="136.75456"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';stroke-width:0.26458331pt"
+           y="31.576868"
+           x="136.75456"
+           id="tspan5550"
+           sodipodi:role="line">Adresářová struktura</tspan></text>
+    </g>
+    <g
+       id="g5791"
+       transform="translate(12.700002)">
+      <text
+         id="text5556"
+         y="27.592316"
+         x="10.423512"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';stroke-width:0.26458331pt"
+           y="27.592316"
+           x="10.423512"
+           id="tspan5554"
+           sodipodi:role="line">Instalace Linux</tspan></text>
+      <text
+         id="text5560"
+         y="36.679462"
+         x="7.4835467"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="36.679462"
+           x="7.4835467"
+           id="tspan5558"
+           sodipodi:role="line">mkdir flask_project</tspan><tspan
+           id="tspan5574"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="41.530155"
+           x="7.4835467"
+           sodipodi:role="line">cd flask_project</tspan><tspan
+           id="tspan5572"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="46.380852"
+           x="7.4835467"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="6.9543805"
+         y="65.899124"
+         id="text5564"><tspan
+           id="tspan5566"
+           sodipodi:role="line"
+           x="6.9543805"
+           y="65.899124"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt">pip install flask</tspan><tspan
+           id="tspan5568"
+           sodipodi:role="line"
+           x="6.9543805"
+           y="70.749817"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt">pip install flask-misaka</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="7.4835467"
+         y="49.379475"
+         id="text46"><tspan
+           sodipodi:role="line"
+           x="7.4835467"
+           y="49.379475"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan44">python3 -m venv .venv</tspan><tspan
+           id="tspan53"
+           sodipodi:role="line"
+           x="7.4835467"
+           y="54.230167"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt" /></text>
+      <text
+         id="text59"
+         y="57.316975"
+         x="7.4835467"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="57.316975"
+           x="7.4835467"
+           sodipodi:role="line"
+           id="tspan57">source .venv/bin/activate</tspan></text>
+    </g>
+    <g
+       id="g5775"
+       transform="translate(12.170835)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="77.098526"
+         y="27.592316"
+         id="text5580"><tspan
+           sodipodi:role="line"
+           id="tspan5578"
+           x="77.098526"
+           y="27.592316"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';stroke-width:0.26458331pt">Intalace Windows</tspan></text>
+      <text
+         id="text67"
+         y="49.379475"
+         x="78.391891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="49.379475"
+           x="78.391891"
+           sodipodi:role="line"
+           id="tspan65">py -3 -m venv .venv</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="78.391876"
+         y="57.316975"
+         id="text79"><tspan
+           id="tspan77"
+           sodipodi:role="line"
+           x="78.391876"
+           y="57.316975"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt">.venv\Scripts\activate</tspan></text>
+      <text
+         id="text89"
+         y="65.899124"
+         x="77.862709"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="65.899124"
+           x="77.862709"
+           sodipodi:role="line"
+           id="tspan85">pip install flask</tspan><tspan
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="70.749817"
+           x="77.862709"
+           sodipodi:role="line"
+           id="tspan87">pip install flask-misaka</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="50.196999"
+       y="78.918808"
+       id="text97"><tspan
+         sodipodi:role="line"
+         id="tspan95"
+         x="50.196999"
+         y="78.918808"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'URW Bookman L';-inkscape-font-specification:'URW Bookman L';stroke-width:0.26458332">http://flask.pocoo.org/docs/installation/</tspan></text>
+    <g
+       id="g5821"
+       transform="translate(-3.8431857e-8,1.603617)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="23.652681"
+         y="87.917313"
+         id="text5607"><tspan
+           sodipodi:role="line"
+           id="tspan5605"
+           x="23.652681"
+           y="87.917313"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';stroke-width:0.26458331pt">Hello, world!</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="20.712711"
+         y="93.829468"
+         id="text5615"><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="93.829468"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan5613">from flask import Flask</tspan><tspan
+           id="tspan5621"
+           sodipodi:role="line"
+           x="20.712711"
+           y="98.680161"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt">app = Flask(__name__)</tspan><tspan
+           id="tspan5623"
+           sodipodi:role="line"
+           x="20.712711"
+           y="103.53085"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"></tspan><tspan
+           id="tspan5625"
+           sodipodi:role="line"
+           x="20.712711"
+           y="108.38155"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt">@app.route('/')</tspan><tspan
+           id="tspan5627"
+           sodipodi:role="line"
+           x="20.712711"
+           y="113.23225"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt">def index():</tspan><tspan
+           id="tspan5629"
+           sodipodi:role="line"
+           x="20.712711"
+           y="118.08294"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt">  return 'Hello, World!'</tspan><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="122.93363"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan8222" /><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="127.78433"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan8216">@app.route('/login/')</tspan><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="132.63503"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan8218">def index():</tspan><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="137.48572"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan8220">  return render_template('login.html')</tspan></text>
+    </g>
+    <g
+       id="g5810"
+       transform="translate(37.693074,-9.0871638)">
+      <text
+         id="text5675"
+         y="97.971489"
+         x="83.448509"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';stroke-width:0.26458331pt"
+           y="97.971489"
+           x="83.448509"
+           id="tspan5673"
+           sodipodi:role="line">URL, routing</tspan></text>
+      <text
+         id="text5689"
+         y="103.88361"
+         x="80.508545"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="103.88361"
+           x="80.508545"
+           sodipodi:role="line"
+           id="tspan5687">@app.route('/user/&lt;username&gt;/')</tspan><tspan
+           id="tspan5711"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="108.73431"
+           x="80.508545"
+           sodipodi:role="line">def user(username):</tspan><tspan
+           id="tspan5715"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="113.585"
+           x="80.508545"
+           sodipodi:role="line">    return 'User %s' % username</tspan><tspan
+           id="tspan5717"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="118.4357"
+           x="80.508545"
+           sodipodi:role="line" /><tspan
+           id="tspan5719"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="123.28639"
+           x="80.508545"
+           sodipodi:role="line">@app.route('/post/&lt;int:post_id&gt;/')</tspan><tspan
+           id="tspan5723"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="128.13708"
+           x="80.508545"
+           sodipodi:role="line">def post(post_id):</tspan><tspan
+           id="tspan5725"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="132.98778"
+           x="80.508545"
+           sodipodi:role="line">    return 'Post %d' % post_id</tspan><tspan
+           id="tspan5727"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="137.83847"
+           x="80.508545"
+           sodipodi:role="line" /><tspan
+           id="tspan5729"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="142.68916"
+           x="80.508545"
+           sodipodi:role="line">@app.route('/path/&lt;path:subpath&gt;/')</tspan><tspan
+           id="tspan5731"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="147.53987"
+           x="80.508545"
+           sodipodi:role="line">def show_subpath(subpath):</tspan><tspan
+           id="tspan5733"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="152.39056"
+           x="80.508545"
+           sodipodi:role="line">    # show the subpath after /path/</tspan><tspan
+           id="tspan5735"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           y="157.24126"
+           x="80.508545"
+           sodipodi:role="line">    return 'Subpath %s' % subpath</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 112.9974,85.598517 0,86.343903"
+       id="path5747"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.045215,82.131414 H 201.78849"
+       id="path5825"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;line-height:1.25;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="118.92303"
+       y="154.16232"
+       id="text5829"><tspan
+         sodipodi:role="line"
+         id="tspan5827"
+         x="118.92303"
+         y="154.16232"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:0.26458332"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
+   id="tspan5839">string</tspan>	(default) accepts any text without a slash</tspan><tspan
+         sodipodi:role="line"
+         x="118.92303"
+         y="158.63713"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:0.26458332"
+         id="tspan5831"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
+   id="tspan5841">int</tspan>	accepts positive integers</tspan><tspan
+         sodipodi:role="line"
+         x="118.92303"
+         y="163.11192"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:0.26458332"
+         id="tspan5833"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold'"
+   id="tspan5849">float</tspan>	accepts positive floating point values</tspan><tspan
+         sodipodi:role="line"
+         x="118.92303"
+         y="167.55856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:0.26458332"
+         id="tspan5835"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold'"
+   id="tspan5851">path</tspan>	like string but also accepts slashes</tspan><tspan
+         sodipodi:role="line"
+         x="118.92303"
+         y="172.00522"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777767px;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L';stroke-width:0.26458332"
+         id="tspan5837"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold'"
+   id="tspan5853">uuid</tspan>	accepts UUID strings</tspan></text>
+    <g
+       id="g8265">
+      <g
+         id="g5875"
+         transform="translate(-3.8431857e-8,70.395287)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="23.652681"
+           y="87.917313"
+           id="text5859"><tspan
+             sodipodi:role="line"
+             id="tspan5857"
+             x="23.652681"
+             y="87.917313"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';stroke-width:0.26458331pt">url_for()</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           x="20.712711"
+           y="93.829468"
+           id="text5873"><tspan
+             sodipodi:role="line"
+             x="20.712711"
+             y="93.829468"
+             style="font-size:3.88055563px;stroke-width:0.26458331pt"
+             id="tspan5861">from flask import url_for</tspan><tspan
+             id="tspan5891"
+             sodipodi:role="line"
+             x="20.712711"
+             y="98.680161"
+             style="font-size:3.88055563px;stroke-width:0.26458331pt">.....</tspan><tspan
+             id="tspan5895"
+             sodipodi:role="line"
+             x="20.712711"
+             y="103.53085"
+             style="font-size:3.88055563px;stroke-width:0.26458331pt">url_for('index')</tspan><tspan
+             id="tspan5897"
+             sodipodi:role="line"
+             x="20.712711"
+             y="108.38155"
+             style="font-size:3.88055563px;stroke-width:0.26458331pt">url_for('login')</tspan><tspan
+             id="tspan5899"
+             sodipodi:role="line"
+             x="20.712711"
+             y="113.23225"
+             style="font-size:3.88055563px;stroke-width:0.26458331pt">url_for('user', username='karel')</tspan><tspan
+             id="tspan5901"
+             sodipodi:role="line"
+             x="20.712711"
+             y="118.08294"
+             style="font-size:3.88055563px;stroke-width:0.26458331pt">url_for('post', post_id=12345)</tspan><tspan
+             id="tspan5907"
+             sodipodi:role="line"
+             x="20.712711"
+             y="122.93363"
+             style="font-size:3.88055563px;stroke-width:0.26458331pt" /></text>
+      </g>
+      <g
+         transform="translate(-3.8431857e-8,107.96613)"
+         id="g5929">
+        <text
+           id="text5911"
+           y="87.917313"
+           x="23.652681"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';stroke-width:0.26458331pt"
+             y="87.917313"
+             x="23.652681"
+             id="tspan5909"
+             sodipodi:role="line">Statické soubory</tspan></text>
+        <text
+           id="text5927"
+           y="93.829468"
+           x="20.712711"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           xml:space="preserve"><tspan
+             style="font-size:3.88055563px;stroke-width:0.26458331pt"
+             y="93.829468"
+             x="20.712711"
+             sodipodi:role="line"
+             id="tspan5923">url_for('static', filename='style.css')</tspan><tspan
+             style="font-size:3.88055563px;stroke-width:0.26458331pt"
+             y="98.680161"
+             x="20.712711"
+             sodipodi:role="line"
+             id="tspan5925" /></text>
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot5931"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:'DejaVu Sans Mono';font-style:normal;font-weight:normal;font-size:18.66666667px;line-height:1.25;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:'DejaVu Sans Mono';font-stretch:normal;font-variant:normal"><flowRegion
+         id="flowRegion5933"><rect
+           id="rect5935"
+           width="240.41631"
+           height="95.964493"
+           x="101.01525"
+           y="755.83429" /></flowRegion><flowPara
+         id="flowPara5937"></flowPara></flowRoot>    <g
+       id="g5979"
+       transform="translate(93.310361,99.254086)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.29166651px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="23.652681"
+         y="87.917313"
+         id="text5961"><tspan
+           sodipodi:role="line"
+           id="tspan5959"
+           x="23.652681"
+           y="87.917313"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L Bold';stroke-width:0.26458331pt">Rendering Templates</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:125%;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458331pt;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="20.712711"
+         y="93.829468"
+         id="text5977"><tspan
+           id="tspan5973"
+           sodipodi:role="line"
+           x="20.712711"
+           y="93.829468"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt">from flask import <tspan
+   style="font-weight:bold"
+   id="tspan6013">render_template</tspan></tspan><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="98.680161"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan5997" /><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="103.53085"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan5999">@app.route('/hello/')</tspan><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="108.38155"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan6001">@app.route('/hello/&lt;name&gt;')</tspan><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="113.23225"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan6003">def hello(name=None):</tspan><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="118.08294"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan6005">    return <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'DejaVu Sans Mono';-inkscape-font-specification:'DejaVu Sans Mono Bold'"
+   id="tspan6009">render_template</tspan>('hello.html',</tspan><tspan
+           sodipodi:role="line"
+           x="20.712711"
+           y="122.93363"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt"
+           id="tspan6007">                            name=name)</tspan><tspan
+           id="tspan5975"
+           sodipodi:role="line"
+           x="20.712711"
+           y="127.78433"
+           style="font-size:3.88055563px;stroke-width:0.26458331pt" /></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 20.045215,147.40048 H 101.68689"
+       id="path8267"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 119.78155,177.98301 h 77.73058"
+       id="path8269"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 112.39077,177.72816 V 218.25"
+       id="path8271"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
